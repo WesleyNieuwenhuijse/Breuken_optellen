@@ -1,0 +1,6 @@
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\bin\Debug\breuk.exe.config
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\bin\Debug\breuk.exe
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\bin\Debug\breuk.pdb
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\obj\Debug\breuk.csprojResolveAssemblyReference.cache
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\obj\Debug\breuk.exe
+c:\users\wesley\documents\visual studio 2015\Projects\breuk\breuk\obj\Debug\breuk.pdb
